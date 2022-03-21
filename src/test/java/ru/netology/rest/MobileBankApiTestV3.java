@@ -10,7 +10,7 @@ import static org.hamcrest.Matchers.*;
 class MobileBankApiTestV3 {
     @Test
     void shouldReturnDemoAccounts() {
-      // Given - When - The
+      // Given - When - Th
       // Предусловия
       given()
           .baseUri("http://localhost:9999/api/v1")
